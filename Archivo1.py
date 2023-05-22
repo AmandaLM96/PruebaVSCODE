@@ -1,0 +1,1 @@
+print("Archivo 1 de la carpeta PRUEBA VS CODE")
